@@ -1,0 +1,6 @@
+1. Handle error scenario and display gloabal error message
+2. Implement cache
+3. Create 5 dummy service
+4. write junit test cases
+5. Write docker file
+6. secure api : optional
